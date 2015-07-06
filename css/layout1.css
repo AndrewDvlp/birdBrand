@@ -169,7 +169,7 @@ img {
     -webkit-transform: translate(-100px, 20px);
     transform: translate(-100px, 20px); }
     .blog-posts .post-1 .post-img {
-      background-image: url(.../images/posts/one.jpg); }
+      background-image: url(../images/posts/one.jpg); }
   .blog-posts .post-2 {
     z-index: 2; }
     .blog-posts .post-2 .post-img {
