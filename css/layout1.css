@@ -26,7 +26,7 @@ img {
 .bird-box {
   position: relative;
   height: 100vh;
-  background-image: url(/images/bird-bg.jpg);
+  background-image: url(../images/bird-bg.jpg);
   background-size: auto 100vh;
   background-position: top center;
   background-attachment: fixed;
@@ -36,7 +36,7 @@ img {
 .logo {
   height: 100px;
   width: 100%;
-  background-image: url(/images/black-bird-logo.svg);
+  background-image: url(../images/black-bird-logo.svg);
   background-position: center;
   background-repeat: no-repeat;
   position: absolute;
@@ -46,7 +46,7 @@ img {
 .fore-bird {
   width: 960px;
   height: 733px;
-  background-image: url(/images/fore-bird.png);
+  background-image: url(../images/fore-bird.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   position: absolute;
@@ -57,7 +57,7 @@ img {
 .back-bird {
   width: 960px;
   height: 298px;
-  background-image: url(/images/back-bird.png);
+  background-image: url(../images/back-bird.png);
   background-repeat: no-repeat;
   background-position: top left;
   position: absolute;
@@ -101,7 +101,7 @@ img {
 
 .large-window {
   height: 640px;
-  background-image: url(/images/model2.jpg);
+  background-image: url(../images/model2.jpg);
   background-position: center 0px;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -169,16 +169,16 @@ img {
     -webkit-transform: translate(-100px, 20px);
     transform: translate(-100px, 20px); }
     .blog-posts .post-1 .post-img {
-      background-image: url(/images/posts/one.jpg); }
+      background-image: url(.../images/posts/one.jpg); }
   .blog-posts .post-2 {
     z-index: 2; }
     .blog-posts .post-2 .post-img {
-      background-image: url(/images/posts/two.jpg); }
+      background-image: url(../images/posts/two.jpg); }
   .blog-posts .post-3 {
     -webkit-transform: translate(100px, 20px);
     transform: translate(100px, 20px); }
     .blog-posts .post-3 .post-img {
-      background-image: url(/images/posts/three.jpg); }
+      background-image: url(../images/posts/three.jpg); }
 
 footer {
   background: black;
